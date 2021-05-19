@@ -3,7 +3,7 @@ void main() {
   student1.id = 23;
   student1.name = 'Peter';
   print("${student1.name} and ${student1.id}");
-  print("${student1.name} and ${student1.id}");
+
   
   student1.study();
   student1.sleep();
